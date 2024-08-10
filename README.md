@@ -1,3 +1,5 @@
+# Welcome to My Workspace!
+
 Hi! I’m not sure how you ended up in this humble space, but you are sincerely welcome :) This is my "Writing a Python and AI Book" workspace.
 
 I've lived as a "컴맹" (meaning someone who doesn't know much about computers) for 30 years, so I’m currently struggling to understand Python and AI.    
