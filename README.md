@@ -8,6 +8,6 @@ However, I believe that someday I will be able to write a book based on a full u
 
 After completing my studies, I hope to write a book that is truly my own. So, please don’t misunderstand and think that this content represents my complete understanding at this point.
 
-I’ve drawn a lot of inspiration for this project from "대두족장님". If you want to check out his excellent work, click here: 대두족장님 AI book
+I’ve drawn a lot of inspiration for this project from "대두족장님". If you want to check out his excellent work, click here: [Deep-Dive-Into-AI-With-MLX-PyTorch](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/)
 
 Have a great day! :)
